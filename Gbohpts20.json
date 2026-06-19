@@ -8,10 +8,7 @@
   ],
   "files": [
 
-	{
-      "name": "system/Interface.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Interface.u"
-    },
+
     {
       "name": "system/LineageEffect.u",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect.u"
@@ -43,11 +40,8 @@
 	{
       "name": "system/Core.dll",
       "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/Core.dll"
-    },
-	{
-      "name": "system/NWindow.dll",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/NWindow.dll"
     }
+
 	
 		
   ]
